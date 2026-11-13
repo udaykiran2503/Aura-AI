@@ -360,7 +360,7 @@ A formal open-source license can be added by the repository owner.
 Uday Kiran
 
 - GitHub: "@udaykiran2503" (https://github.com/udaykiran2503)
-- LinkedIn: "Uday Kiran" (https://www.linkedin.com/in/uday-kiran-n)
+- LinkedIn: "Uday Kiran" (https://www.linkedin.com/in/uday-kiran-n-726744257)
 
 ---
 
